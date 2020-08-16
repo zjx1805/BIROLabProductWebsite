@@ -1,0 +1,25 @@
+- title: Sensor Test 1
+  image: FAEXO_1.jpg
+  description: This is a sensor
+  link:
+    url: "/products/prod-1"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
+
+- title: Sensor Test 2
+  image: FAEXO_1.jpg
+  description: This is a sensor
+  link:
+    url: https://www.humotech.com/products
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
