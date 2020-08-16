@@ -31,7 +31,7 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
   {% for data in product.data %}
   <p> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
-  <p><strong><a href="{{ product.link.url }}">{{ product.link.display }}</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p>
  </div>
 </div>
 
