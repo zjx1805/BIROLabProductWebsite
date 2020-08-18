@@ -3,7 +3,7 @@ title: "BIRO Lab - Home"
 layout: homelay
 excerpt: "BIRO Lab at City University of New York."
 sitemap: false
-permalink: /
+permalink: /home
 ---
 
 Hao Su is Irwin Zahn Endowed assistant professor in the Department of Mechanical Engineering at the [City University of New York, City College](http://www.ccny.cuny/) and the Director of the Lab of Biomechatronics and Intelligent Robotics (BIRO). He was a postdoctoral research fellow at Harvard University and the [Wyss Institute for Biologically Inspired Engineering](http://wyss.harvard.edu/). Prior to this role, he was a [Research Scientist at Philips Research North America](https://www.philips.com/a-w/research/locations/cambridge-north-america.html) where he designed robots for lung and cardiac surgery. He obtained the Ph.D. degree on Surgical Robotics from the Department of Mechanical Engineering at Worcester Polytechnic Institute. Dr. Su received [NSF CAREER Award](https://haosu-robotics.github.io/%3Ca),[Toyota Mobility Challenge Discover Award](https://mobilityunlimited.org/), the [Best Medical Robotics Paper Runner-up Award](https://haosu-robotics.github.io/img/bestPaper.pdf) in the IEEE International Conference on Robotics and Automation (ICRA) and Philips Innovation Transfer Award. He received the [Advanced Simulation & Training Award from the Link Foundation](https://www.binghamton.edu/link-foundation/newsltr/2012/sim.html) and Dr. Richard Schlesinger Award from the American Society for Quality. He holds patents on surgical robotics and socially assistive robots.

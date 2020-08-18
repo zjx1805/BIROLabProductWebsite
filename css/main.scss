@@ -38,6 +38,10 @@ productTitle {
   font-weight: bold;
 }
 
+.nav.navbar-nav > li.active > a {
+  color: green;
+}
+
 img.nav-img {
   margin: 0;
 }
@@ -113,6 +117,37 @@ table, th, tr, td {
 a.footer-normal-text {
   font-size: 16px;
 }
+
+.d-lg-block {
+  display: block!important;
+}
+
+// header2
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+#header {
+  background: #fff;
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 15px 0;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.align-items-center {
+  // -ms-flex-align: center!important;
+  align-items: center!important;
+}
+.d-flex {
+  // display: -ms-flexbox!important;
+  display: flex!important;
+}
+
 
 
 

@@ -3,7 +3,7 @@ title: "BIRO Lab - Products"
 layout: gridlay
 excerpt: "BIRO Lab -- Products."
 sitemap: false
-permalink: /products/
+permalink: /products
 ---
 
 # Products

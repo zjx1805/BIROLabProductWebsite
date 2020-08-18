@@ -60,4 +60,31 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script>
+  let link = window.location.href;
+  // console.log($(".nav.navbar-nav > li"));
+  // console.log($(".nav.navbar-nav > li").length);
+  // console.log($(".nav.navbar-nav"));
+  // $('.nav.navbar-nav > li').each(function(i, obj) {
+  //   let labelText = $(this).text().trim().toLowerCase()
+  //   // console.log(link, labelText, link.includes(labelText), link.includes($(".nav.navbar-nav > li")[i].innerText.toLowerCase()))
+  //   if (link.includes(labelText)) {
+  //     $(this).addClass('active')
+  //   } else {
+  //     $(this).removeClass('active')
+  //   }
+// });
+</script>
 
+<!-- for (let i = 0; i < 7; i++) {
+  //console.log($('.nav.navbar-nav > li')[i]);
+  //console.log($('.nav.navbar-nav > li')[i].innerText);
+  let str = $(".nav.navbar-nav > li")[i].innerText.toLowerCase();
+  console.log(str);
+  console.log($(".nav.navbar-nav > li")[i]);
+  if (link.includes(str)) {
+    $(".nav.navbar-nav > li").eq(i).addClass("active");
+  } else {
+    $(".nav.navbar-nav > li").eq(i).removeClass("active");
+  }
+} -->

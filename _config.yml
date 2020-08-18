@@ -42,3 +42,8 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+navigation:
+  - text: Home
+    url: /home
+  - text: Products
+    url: /products
