@@ -22,7 +22,7 @@ Hao Su is Irwin Zahn Endowed assistant professor in the Department of Mechanical
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner" markdown="0" style="max-height: 674px; max-width: 1348px; margin:auto;">
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 1" />
