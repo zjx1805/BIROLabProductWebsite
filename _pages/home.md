@@ -62,9 +62,11 @@ Hao Su is Irwin Zahn Endowed assistant professor in the Department of Mechanical
 
 Please see our [product page](products) for all available products.
 
+<br />
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+<!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
@@ -73,4 +75,4 @@ Please see our [product page](products) for all available products.
   <img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 20%">
   <img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ACL.jpg" style="width: 20%">
   <img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Toyota.jpg" style="width: 20%">
-</figure>
+</figure> -->
