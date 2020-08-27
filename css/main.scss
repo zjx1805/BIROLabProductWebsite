@@ -50,6 +50,19 @@ p {
   font-size: 20px;
 }
 
+// Product Spec Table
+.specs_wrapper {
+  position: relative;
+  display: block;
+  background-color: #e6e7e8;
+  border-radius: 12px;
+  padding: 10px;
+  padding-right: 0px;
+  display: inline-block;
+  width: auto;
+  max-width: 1400px;
+}
+
 .specs_table {
   font-family: "ProximaNova-Regular","Helvetica Neue",Helvetica,Arial,"sans-serif";
   font-size: 10pt;
@@ -73,6 +86,22 @@ p {
   font-size: 11pt;
   padding: 5px;
   padding-left: 10px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.specs_img_holder {
+  position: relative;
+  overflow: hidden;
+  float: left;
+  width: 25%;
+}
+
+.specs_table_holder {
+  position: relative;
+  overflow: hidden;
+  float: right;
+  width: 75%;
 }
 
 .padded {

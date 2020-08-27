@@ -1,12 +1,4 @@
----
-title: "BIRO Lab - Products"
-layout: textlay
-excerpt: "BIRO Lab -- Products"
-sitemap: false
-permalink: /products/prod-1
----
-
-# Product 1
+I"�<h1 id="product-1">Product 1</h1>
 
 <table class="table table-bordered">
   <thead>
@@ -39,13 +31,13 @@ permalink: /products/prod-1
 </table>
 
 <div class="two-col">
-  <p>Caplex with the EXO Ankle Exoskeleton is a testbed for emulating the mechanics of an ankle-foot exoskeleton or orthosis. The system includes the off-board&nbsp;<a href="#control">Control System</a>&nbsp;and <a href="#actuator">Actuator Unit</a>,&nbsp;the <a href="#exo1">EXO Ankle Exoskeleton</a> (worn by the user), and the flexible&nbsp;<a href="#tether">Tether</a>. Components are available as a complete system including one exoskeleton; components and additional devices may also be purchased separately.</p>
+  <p>Caplex with the EXO Ankle Exoskeleton is a testbed for emulating the mechanics of an ankle-foot exoskeleton or orthosis. The system includes the off-board <a href="#control">Control System</a> and <a href="#actuator">Actuator Unit</a>, the <a href="#exo1">EXO Ankle Exoskeleton</a> (worn by the user), and the flexible <a href="#tether">Tether</a>. Components are available as a complete system including one exoskeleton; components and additional devices may also be purchased separately.</p>
 </div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/productImages/schematic_exo1.jpg){: style="width: 100%; border: 10px"}
+<p><img src="http://localhost:4000/images/productImages/schematic_exo1.jpg" alt="" style="width: 100%; border: 10px" /></p>
 
 <div>
-<table class="specs_table" border="0" cellspacing="0" cellpadding="0">
+  <table class="specs_table" border="0" cellspacing="0" cellpadding="0">
 	<tbody>
     <tr>
 	  <td colspan="3" id="spec_title" class="specs_table_subhead" style="padding-top: 12px; padding-bottom: 12px;">EXO-001 Ankle Exoskeleton</td>
@@ -58,7 +50,7 @@ permalink: /products/prod-1
 	<tr>
 	  <td class="padded spec_topic borderRight borderBottom">Active Degree of Freedom</td>
 	  <td class="padded borderRight borderBottom">Actuated by cable</td>
-	  <td class="padded borderBottom">Ankle <br>
+	  <td class="padded borderBottom">Ankle <br />
 		Plantarflexion / Dorsiflexion</td>
     </tr>
 	<tr>
@@ -101,7 +93,7 @@ permalink: /products/prod-1
 	<tr>
 	  <td class="padded spec_topic borderBottom borderRight">Calf Size</td>
 	  <td class="padded borderBottom borderRight"></td>
-	  <td class="padded borderBottom">Max width: 14 cm (5.5 inch)<br>Max circumference: 50 cm (20 inch)</td>
+	  <td class="padded borderBottom">Max width: 14 cm (5.5 inch)<br />Max circumference: 50 cm (20 inch)</td>
   </tr>
 	<tr>
 	  <td class="padded spec_topic borderRight">Device Weight</td>
@@ -111,23 +103,21 @@ permalink: /products/prod-1
 </tbody></table>
 </div>
 
-
 <div class="row">
   <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/PRO_01_1.jpg" class="img-responsive" width="33%" style="float: left" />
-  </div>  
-  <div class="col-sm-9 clearfix">
+    <p><img src="http://localhost:4000/images/productImages/PRO_01_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
   </div>
+  <div class="col-sm-9 clearfix"></div>
 </div>
 
 <div class="specs_wrapper">
   <div class="specs_img_holder">
-  	<img id="pro1_img" class="img_rounded" src="{{ site.url }}{{ site.baseurl }}/images/productImages/PRO_01_1.jpg" width="100%" height="auto" alt="">
+  	<img id="pro1_img" class="img_rounded" src="http://localhost:4000/images/productImages/PRO_01_1.jpg" width="100%" height="auto" alt="" />
   	<!-- <div class="arrow_left" onclick="prevSpecImage('pro1');"><img src="https://s3.amazonaws.com/files.humotech.com/website/products/arrow_left.png" width="50" height="61" alt=""></div>
   	<div class="arrow_right" onclick="nextSpecImage('pro1');"><img src="https://s3.amazonaws.com/files.humotech.com/website/products/arrow_right.png" width="50" height="61" alt=""></div> -->
   </div>
   <div class="specs_table_holder">
-  <table class="specs_table" border="0" cellspacing="0" cellpadding="0">
+    <table class="specs_table" border="0" cellspacing="0" cellpadding="0">
     <tbody>
     <tr>
       <!-- <td colspan="3" id="spec_title" class="specs_table_subhead leftPadding" style="padding-top: 12px; padding-bottom: 12px;">PRO-001 Ankle-Foot Prosthesis</td> -->
@@ -141,7 +131,7 @@ permalink: /products/prod-1
     <tr>
       <td width="30%" class="padded spec_topic borderRight borderBottom leftPadding">Active Degree of Freedom</td>
       <td width="30%" class="padded borderRight borderBottom">Actuated by cable</td>
-      <td width="30%" class="padded borderBottom">Keel / Forefoot<br>
+      <td width="30%" class="padded borderBottom">Keel / Forefoot<br />
     	Plantarflexion / Dorsiflexion</td>
     </tr>
     <tr>
@@ -185,66 +175,4 @@ permalink: /products/prod-1
   </tbody></table>
   </div>
 </div>
-
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Property</th>
-      <th scope="col">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Unilateral Mass</td>
-      <td>2.5 kg</td>
-    </tr>
-    <tr>
-      <td>Bilateral Mass</td>
-      <td>3.9 kg</td>
-    </tr>
-    <tr>
-      <td>Size</td>
-      <td>570 * 200 * 180 mm</td>
-    </tr>
-    <tr>
-      <td>Motor Voltage</td>
-      <td>42 V</td>
-    </tr>
-    <tr>
-      <td>Motor Continuous Torque</td>
-      <td>6.6 Nm</td>
-    </tr>
-    <tr>
-      <td>Motor Speed</td>
-      <td>250 RPM</td>
-    </tr>
-    <tr>
-      <td>Peak Output Torque</td>
-      <td>20 Nm</td>
-    </tr>
-    <tr>
-      <td>Output Speed</td>
-      <td>26.2 rad/s</td>
-    </tr>
-    <tr>
-      <td>Gear Ratio</td>
-      <td>6:1</td>
-    </tr>
-    <tr>
-      <td>Range of Motion</td>
-      <td>0 - 160 degrees</td>
-    </tr>
-    <tr>
-      <td>Battery Life</td>
-      <td>2 hours</td>
-    </tr>
-    <tr>
-      <td>Wearable Structures</td>
-      <td>Small. Middle, Large</td>
-    </tr>
-    <tr>
-      <td>Actuation Type</td>
-      <td>Portable</td>
-    </tr>
-  </tbody>
-</table>
+:ET

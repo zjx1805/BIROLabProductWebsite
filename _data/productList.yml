@@ -1,6 +1,7 @@
 - title: Sensor Test 1
   image: FAEXO_1.jpg
   description: This is a sensor
+  category: sensor
   link:
     url: "/products/prod-1"
     display: Product link
@@ -11,11 +12,26 @@
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
 
-- title: Sensor Test 2
+- title: Lightweight Knee Exoskeleton
   image: FAEXO_1.jpg
   description: This is a sensor
+  category: sensor
   link:
-    url: https://www.humotech.com/products
+    url: "/products"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
+
+- title: Lightweight Knee Exoskeleton
+  image: FAEXO_1.jpg
+  description: This is an exoskeleton
+  category: exoskeleton
+  link:
+    url: "/products/lightweight-knee-exoskeleton"
     display: Product link
   highlight: 1
   news:

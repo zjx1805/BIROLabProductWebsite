@@ -1,0 +1,81 @@
+I"<h1 id="lightweight-knee-exoskeleton">Lightweight Knee Exoskeleton</h1>
+
+<h2 id="specifications">Specifications</h2>
+
+<div class="row">
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/productImages//Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" /></p>
+  </div>
+  <div class="col-sm-9 clearfix">
+    <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Property</th>
+      <th scope="col">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Unilateral Mass</td>
+      <td>2.5 kg</td>
+    </tr>
+    <tr>
+      <td>Bilateral Mass</td>
+      <td>3.9 kg</td>
+    </tr>
+    <tr>
+      <td>Size</td>
+      <td>570 * 200 * 180 mm</td>
+    </tr>
+    <tr>
+      <td>Motor Voltage</td>
+      <td>42 V</td>
+    </tr>
+    <tr>
+      <td>Motor Continuous Torque</td>
+      <td>6.6 Nm</td>
+    </tr>
+    <tr>
+      <td>Motor Speed</td>
+      <td>250 RPM</td>
+    </tr>
+    <tr>
+      <td>Peak Output Torque</td>
+      <td>20 Nm</td>
+    </tr>
+    <tr>
+      <td>Output Speed</td>
+      <td>26.2 rad/s</td>
+    </tr>
+    <tr>
+      <td>Gear Ratio</td>
+      <td>6:1</td>
+    </tr>
+    <tr>
+      <td>Range of Motion</td>
+      <td>0 - 160 degrees</td>
+    </tr>
+    <tr>
+      <td>Battery Life</td>
+      <td>2 hours</td>
+    </tr>
+    <tr>
+      <td>Wearable Structures</td>
+      <td>Small. Middle, Large</td>
+    </tr>
+    <tr>
+      <td>Actuation Type</td>
+      <td>Portable</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+</div>
+
+<h2 id="sensor-and-control-description">Sensor and Control Description</h2>
+
+<h2 id="sensor-and-control-specifications">Sensor and Control Specifications</h2>
+
+<h2 id="portable-exoskeleton-architecture-teensy-36">Portable Exoskeleton Architecture (Teensy 3.6)</h2>
+
+:ET
