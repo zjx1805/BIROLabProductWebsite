@@ -1,0 +1,41 @@
+- title: Actuator Test 1
+  image: FAEXO_1.jpg
+  description: This is actuator \#1
+  category: actuator
+  link:
+    url: "/products/prod-1"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
+
+- title: Actuator Test 2
+  image: FAEXO_1.jpg
+  description: This is actuator \#2
+  category: actuator
+  link:
+    url: "/products/prod-1"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
+
+- title: Actuator Test 3
+  image: FAEXO_1.jpg
+  description: This is actuator \#3
+  category: actuator
+  link:
+    url: "/products/prod-1"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%

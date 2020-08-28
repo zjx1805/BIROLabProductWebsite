@@ -13,7 +13,7 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 ## Sensors
 
 {% assign number_printed = 0 %}
-{% for product in site.data.productList %}
+{% for product in site.data.sensorList %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if product.highlight == 1 %}
@@ -56,7 +56,7 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 ## Actuators
 
 {% assign number_printed = 0 %}
-{% for product in site.data.productList %}
+{% for product in site.data.actuatorList %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if product.highlight == 1 %}
@@ -99,7 +99,7 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 ## Exoskeletons
 
 {% assign number_printed = 0 %}
-{% for product in site.data.productList %}
+{% for product in site.data.exoskeletonList %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if product.highlight == 1 %}

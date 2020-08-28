@@ -1,23 +1,15 @@
----
-title: "BIRO Lab - Products"
-layout: textlay
-excerpt: "BIRO Lab -- Products"
-sitemap: false
-permalink: /products/lightweight-knee-exoskeleton
----
+I"ø<h1 id="lightweight-knee-exoskeleton">Lightweight Knee Exoskeleton</h1>
 
-# Lightweight Knee Exoskeleton
-
-<div class="product-specs-subheading" markdown="1">
-## Specifications
+<div class="product-specs-subheading">
+  <h2 id="specifications">Specifications</h2>
 </div>
 
 <div class="row">
   <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
-  </div>  
+    <p><img src="http://localhost:4000/images/productImages//Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" /></p>
+  </div>
   <div class="col-sm-9 clearfix">
-  <table class="table table-bordered">
+    <table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col">Property</th>
@@ -82,17 +74,15 @@ permalink: /products/lightweight-knee-exoskeleton
   </div>
 </div>
 
-<div class="product-specs-subheading" markdown="1">
-## Sensor and Control Description
+<div class="product-specs-subheading">
+  <h2 id="sensor-and-control-description">Sensor and Control Description</h2>
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Senor_And_Control_Description.png" class="product-specs-image-center">
+  <p><img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Senor_And_Control_Description.png" class="product-specs-image-center" /></p>
 </div>
 
-<div class="product-specs-subheading" markdown="1">
-## Sensor and Control Specifications
-</div>
+<h2 id="sensor-and-control-specifications">Sensor and Control Specifications</h2>
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -128,11 +118,7 @@ permalink: /products/lightweight-knee-exoskeleton
   </tbody>
 </table>
 
-<div class="product-specs-subheading" markdown="1">
-## Portable Exoskeleton Architecture (Teensy 3.6)
-</div>
+<h2 id="portable-exoskeleton-architecture-teensy-36">Portable Exoskeleton Architecture (Teensy 3.6)</h2>
+<p><img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" alt="" style="width: 80%; border: 10px" /></p>
 
-<div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center">
-</div>
-
+:ET

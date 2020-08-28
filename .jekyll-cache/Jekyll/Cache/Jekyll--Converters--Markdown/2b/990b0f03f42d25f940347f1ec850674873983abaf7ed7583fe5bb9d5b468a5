@@ -1,0 +1,57 @@
+I"Ï<h1 id="high-performance-tethered-knee-exoskeleton">High Performance Tethered Knee Exoskeleton</h1>
+
+<div class="product-specs-subheading">
+  <h2 id="benefitsadvantages">Benefits/Advantages</h2>
+</div>
+
+<div>
+  <p><img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="product-specs-image-center" /></p>
+</div>
+
+<div class="row">
+  <div class="col-sm-7 clearfix">
+    <p><img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" /></p>
+  </div>
+  <div class="col-sm-5 clearfix">
+    <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Property</th>
+      <th scope="col">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lightweight</td>
+      <td>Unilateral exoskeleton weight only 1 kg</td>
+    </tr>
+    <tr>
+      <td>High Torque Density Motor</td>
+      <td>7.0 Nm/kg, 4 times for other available devices</td>
+    </tr>
+    <tr>
+      <td>Effective Assistance</td>
+      <td>Nominal torque is 48 or 64 Nm, can provide more than 50% torque assist for walking and reduce 75% muscle activities for squatting</td>
+    </tr>
+    <tr>
+      <td>High Bandwidth</td>
+      <td>65 Hz, walking and running are super stable</td>
+    </tr>
+    <tr>
+      <td>High Backdrivability</td>
+      <td>0.9 Nm, almost no mechanical resistance is felt</td>
+    </tr>
+    <tr>
+      <td>High Stiffness</td>
+      <td>&gt;350 Nm/rad, more than average stiffness value of normal walking 260 Nm/rad</td>
+    </tr>
+    <tr>
+      <td>High Accuracy</td>
+      <td>Tracking error &lt; 3%</td>
+    </tr>
+    
+  </tbody>
+</table>
+  </div>
+</div>
+:ET

@@ -1,0 +1,194 @@
+---
+title: "BIRO Lab - Products"
+layout: textlay
+excerpt: "BIRO Lab -- Products"
+sitemap: false
+permalink: /products/high-performace-tethered-knee-exoskeleton
+---
+
+# High Performance Tethered Knee Exoskeleton
+
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="product-specs-image-center">
+</div>
+
+<div class="product-specs-subheading" markdown="1">
+## Benefits/Advantages
+</div>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Property</th>
+      <th scope="col">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lightweight</td>
+      <td>Unilateral exoskeleton weight only 1 kg</td>
+    </tr>
+    <tr>
+      <td>High Torque Density Motor</td>
+      <td>7.0 Nm/kg, 4 times for other available devices</td>
+    </tr>
+    <tr>
+      <td>Effective Assistance</td>
+      <td>Nominal torque is 48 or 64 Nm, can provide more than 50% torque assist for walking and reduce 75% muscle activities for squatting</td>
+    </tr>
+    <tr>
+      <td>High Bandwidth</td>
+      <td>65 Hz, walking and running are super stable</td>
+    </tr>
+    <tr>
+      <td>High Backdrivability</td>
+      <td>0.9 Nm, almost no mechanical resistance is felt</td>
+    </tr>
+    <tr>
+      <td>High Stiffness</td>
+      <td>>350 Nm/rad, more than average stiffness value of normal walking 260 Nm/rad</td>
+    </tr>
+    <tr>
+      <td>High Accuracy</td>
+      <td>Tracking error < 3%</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<div class="product-specs-subheading" markdown="1">
+## Tethered Exoskeleton Architecture
+</div>
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Architecture.png" class="product-specs-image-center">
+</div>
+
+<div class="product-specs-subheading" markdown="1">
+## Control Architecture (Simulink Real-Time)
+</div>
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Control_Architecture.png" class="product-specs-image-center">
+</div>
+
+<div class="product-specs-subheading" markdown="1">
+## Software System
+</div>
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Software_System.png" class="product-specs-image-center">
+</div>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Property</th>
+      <th scope="col">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Controller Environment</td>
+      <td>MATLAB 2016a/Simulink Real-time</td>
+    </tr>
+    <tr>
+      <td>Sample Rate</td>
+      <td>1000 Hz</td>
+    </tr>
+    <tr>
+      <td>Low Level Control</td>
+      <td>Position/Torque/Current/Velocity Control, various stiffness</td>
+    </tr>
+    <tr>
+      <td>High Level Control</td>
+      <td>Implementation of customized algorithm supported</td>
+    </tr>
+    <tr>
+      <td>Live Data Visualization</td>
+      <td>Torque; joint angles; velocity; acceleration; current; stiffness</td>
+    </tr>
+    <tr>
+      <td>Data Storage</td>
+      <td>All data can be saved</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<div class="product-specs-subheading" markdown="1">
+## Actuator Unit
+</div>
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Actuator_Unit.png" class="product-specs-image-center">
+</div>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Property</th>
+      <th scope="col">Motor</th>
+      <th scope="col">24:1 Gear Box</th>
+      <th scope="col">36:1 Gear Box</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mass (g)</td>
+      <td>274</td>
+      <td>950</td>
+      <td>950</td>
+    </tr>
+    <tr>
+      <td>Dimensions (mm)</td>
+      <td>87D*32H</td>
+      <td>102D*80H</td>
+      <td>102D*80H</td>
+    </tr>
+    <tr>
+      <td>Nominal Power (W)</td>
+      <td colspan="3">314</td>
+    </tr>
+    <tr>
+      <td>Nominal Voltage (V)</td>
+      <td colspan="3">42</td>
+    </tr>
+    <tr>
+      <td>Nominal Current (A)</td>
+      <td colspan="3">7.47</td>
+    </tr>
+    <tr>
+      <td>Nominal Torque (Nm)</td>
+      <td>2</td>
+      <td>48</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td>Nominal Speed (RPM)</td>
+      <td>1500</td>
+      <td>63</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>Nominal Torque (rad/s)</td>
+      <td>157</td>
+      <td>6.5</td>
+      <td>4.9</td>
+    </tr>
+    <tr>
+      <td>Power Density (W/kg)</td>
+      <td>1145</td>
+      <td>330</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td>Torque Density (Nm/kg)</td>
+      <td>7.3</td>
+      <td>50.5</td>
+      <td>67.4</td>
+    </tr>
+    
+  </tbody>
+</table>

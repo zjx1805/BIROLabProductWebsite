@@ -50,7 +50,8 @@ p {
   font-size: 20px;
 }
 
-// Product Spec Table
+// Product Page
+/// Product Spec Table
 .specs_wrapper {
   position: relative;
   display: block;
@@ -132,6 +133,20 @@ p {
 table, th, tr, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+
+/// Product specs image
+img.product-specs-image-center {
+  display: block;
+  margin: 0 auto 0 auto;
+  width: 80%;
+  max-width: 1000px;
+  border: 10px;
+}
+
+/// Product specs subheading
+.product-specs-subheading {
+  text-align: center;
 }
 
 .two-col {
