@@ -8,12 +8,12 @@ permalink: /products
 
 # Products
 
-Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeletons). 
+Jump to [exoskeletons](#exoskeletons), [actuators](#actuators), [sensors](#sensors). 
 
-## Sensors
+## Exoskeletons
 
 {% assign number_printed = 0 %}
-{% for product in site.data.sensorList %}
+{% for product in site.data.exoskeletonList %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if product.highlight == 1 %}
@@ -24,14 +24,16 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ product.description }}</p>
+  <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
+  </a>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
-  <p> {{data[0]}}: {{data[1]}} </p>
+  <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p>
+  <!-- <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p> -->
  </div>
 </div>
 
@@ -67,14 +69,16 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ product.description }}</p>
+  <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
+  </a>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
-  <p> {{data[0]}}: {{data[1]}} </p>
+  <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p>
+  <!-- <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p> -->
  </div>
 </div>
 
@@ -96,10 +100,10 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 
 <p> &nbsp; </p>
 
-## Exoskeletons
+## Sensors
 
 {% assign number_printed = 0 %}
-{% for product in site.data.exoskeletonList %}
+{% for product in site.data.sensorList %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if product.highlight == 1 %}
@@ -110,14 +114,16 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ product.description }}</p>
+  <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
+  </a>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
-  <p> {{data[0]}}: {{data[1]}} </p>
+  <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p>
+  <!-- <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">{{ product.link.display }}</a></strong></p> -->
  </div>
 </div>
 
@@ -138,3 +144,6 @@ Jump to [sensors](#sensors), [actuators](#actuators), [exoskeletons](#exoskeleto
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+

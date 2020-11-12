@@ -1,33 +1,35 @@
-- title: Actuator Test 1
-  image: FAEXO_1.jpg
+- title: High Torque Actuator
+  image: High_Torque_Actuator_Thumbnail.png
   description: This is actuator \#1
   category: actuator
   link:
     url: "/products/prod-1"
     display: Product link
-  highlight: 1
+  highlight: 0
   news:
   data:
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Motor Type: Brushless servo motor
 
-- title: Actuator Test 2
-  image: FAEXO_1.jpg
+- title: Alpha Actuator
+  image: Alpha_Actuator_Thumbnail.png
   description: This is actuator \#2
   category: actuator
   link:
     url: "/products/prod-1"
     display: Product link
-  highlight: 1
+  highlight: 0
   news:
   data:
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Motor Type: Brushless servo motor
 
-- title: Actuator Test 3
-  image: FAEXO_1.jpg
+- title: Smart High Torque Density Actuator
+  image: Beta_Actuator_Thumbnail.png
   description: This is actuator \#3
   category: actuator
   link:
@@ -36,6 +38,8 @@
   highlight: 1
   news:
   data:
-    Maximum Torque: 180 Nm
-    Range of Motion: 45 degrees
-    Force Sensor: Accuracy +/- 1%
+    Nominal Power: 330 W
+    Nominal Voltage: 48 V
+    Peak Torque: 35 Nm
+    Full Range of Phase Current: 12.5 A
+    Motor Type: Brushless servo motor

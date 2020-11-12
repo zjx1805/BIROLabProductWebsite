@@ -1,6 +1,6 @@
 - title: Lightweight Knee Exoskeleton
-  image: FAEXO_1.jpg
-  description: This is an exoskeleton
+  image: Lightweight_Knee_Exoskeleton_Thumbnail.png
+  description: 
   category: exoskeleton
   link:
     url: "/products/lightweight-knee-exoskeleton"
@@ -8,13 +8,14 @@
   highlight: 1
   news:
   data:
-    Maximum Torque: 180 Nm
-    Range of Motion: 45 degrees
-    Force Sensor: Accuracy +/- 1%
+    Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral)
+    Transmission: 6:1 gear, bi-directional actuation
+    Torque output: 20 Nm torque, >26 rad/s speed
+    Control platform: Arduino Teensy 3.6
 
 - title: High Performance Tethered Knee Exoskeleton
-  image: FAEXO_1.jpg
-  description: This is an exoskeleton
+  image: High_Performance_Tethered_Knee_Exoskeleton_Thumbnail.png
+  description: 
   category: exoskeleton
   link:
     url: "/products/high-performace-tethered-knee-exoskeleton"
@@ -22,6 +23,7 @@
   highlight: 1
   news:
   data:
-    Maximum Torque: 180 Nm
-    Range of Motion: 45 degrees
-    Force Sensor: Accuracy +/- 1%
+    Wearable structure weight: 1 kg
+    Transmission: 24:1 gear, bi-directional actuation
+    Torque output: \>50 Nm torque, \>6.5 rad/s speed
+    Control platform: MATLAB Simulink Realtime

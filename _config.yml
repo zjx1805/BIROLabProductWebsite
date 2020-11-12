@@ -10,8 +10,8 @@ title: The BIRO Lab
 email: hao.su@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   We are developing both enabling technologies (i.e. high torque density motors and soft fabric sensors) and robotic systems to augment human capability with wearable robots. Soft exoskeleton is a new design methodology that optimizes both comfort and performance of the users. We believe that our lightweight and compliant exoskeleton will be new intervention and rehabilitation solutions for both neurological and musculoskeletal disorders, e.g. osteoarthritis and children with cerebral palsy.
-baseurl: "/BIROLabProductWebsite"
-url: "https://zjx1805.github.io"
+baseurl: "/"
+url: "https://omnicstech.github.io"
 
 include:
   - .htaccess

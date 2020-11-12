@@ -1,6 +1,6 @@
-- title: Sensor Test 1
-  image: FAEXO_1.jpg
-  description: This is sensor \#1
+- title: Wireless Inertial Measurement Unit (IMU)
+  image: Alubi_B2_Wireless_IMU.png
+  description: This is a 9-axis Bluetooth IMU (inertial measurement unit) / attitude and heading reference system (AHRS). These units are very versatile, performing accurate, high speed orientation and relative displacement measurements.
   category: sensor
   link:
     url: "/products/prod-1"
@@ -8,11 +8,9 @@
   highlight: 1
   news:
   data:
-    Maximum Torque: 180 Nm
-    Range of Motion: 45 degrees
-    Force Sensor: Accuracy +/- 1%
+    
 
-- title: Sensor Test 2
+- title: Custom Force/Torque Sensor
   image: FAEXO_1.jpg
   description: This is sensor \#2
   category: sensor
@@ -25,17 +23,5 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Sample Frequency: 400 Hz
 
-- title: Sensor Test 3
-  image: FAEXO_1.jpg
-  description: This is sensor \#3
-  category: sensor
-  link:
-    url: "/products/prod-1"
-    display: Product link
-  highlight: 1
-  news:
-  data:
-    Maximum Torque: 180 Nm
-    Range of Motion: 45 degrees
-    Force Sensor: Accuracy +/- 1%
