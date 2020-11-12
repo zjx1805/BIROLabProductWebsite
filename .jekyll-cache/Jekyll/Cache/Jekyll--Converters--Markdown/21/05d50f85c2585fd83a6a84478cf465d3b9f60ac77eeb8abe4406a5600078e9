@@ -1,0 +1,123 @@
+I";<h1 id="products">Products</h1>
+
+<p>Jump to <a href="#exoskeletons">exoskeletons</a>, <a href="#actuators">actuators</a>, <a href="#sensors">sensors</a>.</p>
+
+<h2 id="exoskeletons">Exoskeletons</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well product-listing">
+      <productTitle>Lightweight Knee Exoskeleton</productTitle>
+      <p><a href="http://localhost:4000/products/lightweight-knee-exoskeleton">
+    <img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Thumbnail.png" class="img-responsive" width="33%" style="float: left" />
+  </a></p>
+      <p class="product_short_description"></p>
+
+      <p class="product_short_description"> Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral) </p>
+
+      <p class="product_short_description"> Transmission: 6:1 gear, bi-directional actuation </p>
+
+      <p class="product_short_description"> Torque output: 20 Nm torque, &gt;26 rad/s speed </p>
+
+      <p class="product_short_description"> Control platform: Arduino Teensy 3.6 </p>
+
+      <p><!-- <p><strong><a href="http://localhost:4000/products/lightweight-knee-exoskeleton">Product link</a></strong></p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well product-listing">
+      <productTitle>High Performance Tethered Knee Exoskeleton</productTitle>
+      <p><a href="http://localhost:4000/products/high-performace-tethered-knee-exoskeleton">
+    <img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Thumbnail.png" class="img-responsive" width="33%" style="float: left" />
+  </a></p>
+      <p class="product_short_description"></p>
+
+      <p class="product_short_description"> Wearable structure weight: 1 kg </p>
+
+      <p class="product_short_description"> Transmission: 24:1 gear, bi-directional actuation </p>
+
+      <p class="product_short_description"> Torque output: &gt;50 Nm torque, &gt;6.5 rad/s speed </p>
+
+      <p class="product_short_description"> Control platform: MATLAB Simulink Realtime </p>
+
+      <p><!-- <p><strong><a href="http://localhost:4000/products/high-performace-tethered-knee-exoskeleton">Product link</a></strong></p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="actuators">Actuators</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well product-listing">
+      <productTitle>Smart High Torque Density Actuator</productTitle>
+      <p><a href="http://localhost:4000/products/prod-1">
+    <img src="http://localhost:4000/images/productImages/Beta_Actuator_Thumbnail.png" class="img-responsive" width="33%" style="float: left" />
+  </a></p>
+      <p class="product_short_description">This is actuator #3</p>
+
+      <p class="product_short_description"> Nominal Power: 330 W </p>
+
+      <p class="product_short_description"> Nominal Voltage: 48 V </p>
+
+      <p class="product_short_description"> Peak Torque: 35 Nm </p>
+
+      <p class="product_short_description"> Full Range of Phase Current: 12.5 A </p>
+
+      <p class="product_short_description"> Motor Type: Brushless servo motor </p>
+
+      <p><!-- <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="sensors">Sensors</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well product-listing">
+      <productTitle>Wireless Inertial Measurement Unit (IMU)</productTitle>
+      <p><a href="http://localhost:4000/products/prod-1">
+    <img src="http://localhost:4000/images/productImages/Alubi_B2_Wireless_IMU.png" class="img-responsive" width="33%" style="float: left" />
+  </a></p>
+      <p class="product_short_description">This is a 9-axis Bluetooth IMU (inertial measurement unit) / attitude and heading reference system (AHRS). These units are very versatile, performing accurate, high speed orientation and relative displacement measurements.</p>
+
+      <p><!-- <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well product-listing">
+      <productTitle>Custom Force/Torque Sensor</productTitle>
+      <p><a href="http://localhost:4000/products/prod-1">
+    <img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" />
+  </a></p>
+      <p class="product_short_description">This is sensor #2</p>
+
+      <p class="product_short_description"> Maximum Torque: 180 Nm </p>
+
+      <p class="product_short_description"> Range of Motion: 45 degrees </p>
+
+      <p class="product_short_description"> Force Sensor: Accuracy +/- 1% </p>
+
+      <p class="product_short_description"> Sample Frequency: 400 Hz </p>
+
+      <p><!-- <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET
